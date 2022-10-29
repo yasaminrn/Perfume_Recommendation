@@ -1,2 +1,2 @@
 # Perfume_Recommendation
-Perfume recommendation with two approaches: content based and collaborative filtering
+Perfume recommendation with two approaches: feature based similarity and collaborative filtering
