@@ -16,3 +16,5 @@ Next step, the recommendation model was built in "feature_based_perfume_recom" n
 
 The model provides top 10 similar perfumes to a given perfume by user. It was tested by serveral friends and family members and they found the suggestions similar to the 
 original selection and their taste. It can be implemented by both online and in-store perfume shops, increasing the chance of the costumers finding the scent they enjoy.
+
+<img src="./similar.jpg">
